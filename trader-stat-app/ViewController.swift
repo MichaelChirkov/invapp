@@ -75,13 +75,9 @@ class ViewController: UIViewController {
                 return
             }
             
-            do {
             guard let reps = response else { return }
                 
             print(reps.payload.operations)
-            } catch let error {
-                print(error)
-            }
         }
     }
     
