@@ -7,6 +7,6 @@ target 'trader-stat-app' do
 
   # Pods for trader-stat-app
 
-pod 'Alamofire', '~> 4.9.1'
+pod 'Alamofire', '~> 4.9.0'
 
 end
