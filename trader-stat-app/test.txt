@@ -1,0 +1,26 @@
+
+{
+commission =                 {
+currency = RUB;
+value = "-132.86";
+};
+currency = RUB;
+date = "2020-04-09T17:31:58.646444+03:00";
+figi = BBG004731354;
+id = 20002347405;
+instrumentType = Stock;
+isMarginCall = 0;
+operationType = Buy;
+payment = "-531450";
+price = "354.3";
+quantity = 1500;
+status = Done;
+trades =                 (
+{
+date = "2020-04-09T17:32:00.696582+03:00";
+price = "354.3";
+quantity = 1500;
+tradeId = 3158063203;
+}
+);
+}

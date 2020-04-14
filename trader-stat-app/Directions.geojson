@@ -1,0 +1,262 @@
+{
+    payload =     {
+        operations =         (
+                        {
+                currency = RUB;
+                date = "2020-04-09T23:16:55+03:00";
+                id = "-1";
+                isMarginCall = 0;
+                operationType = PayOut;
+                payment = "-37000";
+                status = Done;
+            },
+                        {
+                commission =                 {
+                    currency = USD;
+                    value = "-1";
+                };
+                currency = USD;
+                date = "2020-04-09T23:12:09.758413+03:00";
+                figi = BBG000N9MNX3;
+                id = 119015827100;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Buy;
+                payment = "-4011.07";
+                price = "573.01";
+                quantity = 7;
+                status = Done;
+                trades =                 (
+                                        {
+                        date = "2020-04-09T23:12:10.083377+03:00";
+                        price = "573.01";
+                        quantity = 7;
+                        tradeId = 469041300;
+                    }
+                );
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T23:12:09.758413+03:00";
+                figi = BBG000N9MNX3;
+                id = "-1";
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = BrokerCommission;
+                payment = "-1";
+                status = Done;
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T22:59:05.925258+03:00";
+                figi = BBG000N9MNX3;
+                id = 119015698640;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Buy;
+                payment = 0;
+                price = "568.5";
+                quantity = 7;
+                status = Decline;
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T22:26:18.826718+03:00";
+                figi = BBG000N9MNX3;
+                id = 119013597190;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Buy;
+                payment = 0;
+                price = "568.59";
+                quantity = 7;
+                status = Decline;
+            },
+                        {
+                commission =                 {
+                    currency = USD;
+                    value = "-0.14";
+                };
+                currency = USD;
+                date = "2020-04-09T20:10:51.564681+03:00";
+                figi = BBG000N9MNX3;
+                id = 118916518310;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = "571.5";
+                price = "571.5";
+                quantity = 1;
+                status = Done;
+                trades =                 (
+                                        {
+                        date = "2020-04-09T20:55:22.091273+03:00";
+                        price = "571.5";
+                        quantity = 1;
+                        tradeId = 466856080;
+                    }
+                );
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T20:10:51.564681+03:00";
+                figi = BBG000N9MNX3;
+                id = "-1";
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = BrokerCommission;
+                payment = "-0.14";
+                status = Done;
+            },
+                        {
+                commission =                 {
+                    currency = USD;
+                    value = "-0.14";
+                };
+                currency = USD;
+                date = "2020-04-09T19:23:54.927448+03:00";
+                figi = BBG000N9MNX3;
+                id = 118887834790;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = 571;
+                price = 571;
+                quantity = 1;
+                status = Done;
+                trades =                 (
+                                        {
+                        date = "2020-04-09T19:24:18.48809+03:00";
+                        price = 571;
+                        quantity = 1;
+                        tradeId = 465756280;
+                    }
+                );
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:23:54.927448+03:00";
+                figi = BBG000N9MNX3;
+                id = "-1";
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = BrokerCommission;
+                payment = "-0.14";
+                status = Done;
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:20:15.293569+03:00";
+                figi = BBG000BF6LY3;
+                id = 118885776790;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = 0;
+                price = "13.45";
+                quantity = 38;
+                status = Decline;
+            },
+                        {
+                commission =                 {
+                    currency = USD;
+                    value = "-0.14";
+                };
+                currency = USD;
+                date = "2020-04-09T19:19:47.013583+03:00";
+                figi = BBG000N9MNX3;
+                id = 118885470610;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = "570.5";
+                price = "570.5";
+                quantity = 1;
+                status = Done;
+                trades =                 (
+                                        {
+                        date = "2020-04-09T19:21:42.917171+03:00";
+                        price = "570.5";
+                        quantity = 1;
+                        tradeId = 465715440;
+                    }
+                );
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:19:47.013583+03:00";
+                figi = BBG000N9MNX3;
+                id = "-1";
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = BrokerCommission;
+                payment = "-0.14";
+                status = Done;
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:19:23.292243+03:00";
+                figi = BBG000N9MNX3;
+                id = 118885217550;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = 0;
+                price = "570.5";
+                quantity = 3;
+                status = Decline;
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:18:51.925454+03:00";
+                figi = BBG000N9MNX3;
+                id = 118884919210;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = 0;
+                price = "570.5";
+                quantity = 2;
+                status = Decline;
+            },
+                        {
+                commission =                 {
+                    currency = USD;
+                    value = "-0.14";
+                };
+                currency = USD;
+                date = "2020-04-09T19:00:41.133776+03:00";
+                figi = BBG000N9MNX3;
+                id = 118872947470;
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = Sell;
+                payment = "569.5";
+                price = "569.5";
+                quantity = 1;
+                status = Done;
+                trades =                 (
+                                        {
+                        date = "2020-04-09T19:03:19.961602+03:00";
+                        price = "569.5";
+                        quantity = 1;
+                        tradeId = 465483640;
+                    }
+                );
+            },
+                        {
+                currency = USD;
+                date = "2020-04-09T19:00:41.133776+03:00";
+                figi = BBG000N9MNX3;
+                id = "-1";
+                instrumentType = Stock;
+                isMarginCall = 0;
+                operationType = BrokerCommission;
+                payment = "-0.14";
+                status = Done;
+            }
+        );
+    };
+    status = Ok;
+    trackingId = 3***;
+}

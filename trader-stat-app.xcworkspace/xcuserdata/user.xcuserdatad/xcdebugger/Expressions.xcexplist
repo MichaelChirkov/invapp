@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ViewController.getOperationsUIButton(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static OperationsAPI.operationsGetWithRequestBuilder(from:to:figi:brokerAccountId:):OperationsAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestBuilder.init(method: &quot;GET&quot;, URLString: (url?.string ?? URLString), parameters: parameters, isBody: false, headers: headers)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.getOperationsUIButton(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateTo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
